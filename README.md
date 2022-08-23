@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @id10tfyi
+- 👀 I’m interested in computer networking and learning web development among other technical challenges and projects
+- 🌱 I’m currently learning git, js, css, html, python, mpls, etc.. etc.
+- 📫 How to reach me admin@id10t.fyi
